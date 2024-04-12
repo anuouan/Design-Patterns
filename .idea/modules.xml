@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns.iml" filepath="$PROJECT_DIR$/Design-Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_SimpleFactoryPattern/_01_SimpleFactoryPattern.iml" filepath="$PROJECT_DIR$/_01_SimpleFactoryPattern/_01_SimpleFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_StrategicPattern/_02_StrategicPattern.iml" filepath="$PROJECT_DIR$/_02_StrategicPattern/_02_StrategicPattern.iml" />
     </modules>
   </component>
 </project>
